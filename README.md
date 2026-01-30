@@ -1,9 +1,6 @@
 # Robot Trajectory Optimization in a Dynamic Obstacle Environment
 
-<video width="640" height="480" controls>
-  <source src="dynamic_obstacle.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+[Watch the video](dynamic_obstacle.mp4)
 
 ## 1. Introduction
 
