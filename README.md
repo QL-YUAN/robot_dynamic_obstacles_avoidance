@@ -1,6 +1,6 @@
 # Robot Trajectory Optimization in a Dynamic Obstacle Environment
 
-[Watch the video](dynamic_obstacle.mp4)
+[Watch the video](dynamic%20obstacle.mp4)
 
 ## 1. Introduction
 
